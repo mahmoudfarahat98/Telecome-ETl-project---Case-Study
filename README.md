@@ -19,11 +19,10 @@ Project Description This project for a telecom company successfully addressed se
 
 Project Values • Analysis of Business Demands
 
-https://github.com/mahmoudfarahat98/Telecome-ETl-project---Case-Study/blob/365b6c94cdb9b248f35cddb4957a1b99f75aae23/Full.png
 
 • Data Creation (Tables and Attributes)
 
 • Data Extraction and Transformation using SSIS Package
 
 • Source and Destination Error Handling
-[Full 2.png](https://github.com/mahmoudfarahat98/Telecome-ETl-project---Case-Study/blob/365b6c94cdb9b248f35cddb4957a1b99f75aae23/Full.png)
+(https://github.com/mahmoudfarahat98/Telecome-ETl-project---Case-Study/blob/365b6c94cdb9b248f35cddb4957a1b99f75aae23/Full.png)
