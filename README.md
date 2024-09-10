@@ -25,4 +25,3 @@ Project Values • Analysis of Business Demands
 • Data Extraction and Transformation using SSIS Package
 
 • Source and Destination Error Handling
-(https://github.com/mahmoudfarahat98/Telecome-ETl-project---Case-Study/blob/365b6c94cdb9b248f35cddb4957a1b99f75aae23/Full.png)
