@@ -24,3 +24,4 @@ Project Values • Analysis of Business Demands
 • Data Extraction and Transformation using SSIS Package
 
 • Source and Destination Error Handling
+Full 2.png
